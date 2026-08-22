@@ -47,4 +47,4 @@ atelier_scikit-learn_iot/
 | 7 | Évaluation du modèle | ✅ |
 | 8 | Sauvegarde du modèle | ✅ |
 | 9 | Chargement et réutilisation du modèle | ✅ |
-| 10 | Bonus | ⏳ |
+| 10 | Bonus | ✅ |
