@@ -46,5 +46,5 @@ atelier_scikit-learn_iot/
 | 6 | Entraînement et prédiction (KNN) | ✅ |
 | 7 | Évaluation du modèle | ✅ |
 | 8 | Sauvegarde du modèle | ✅ |
-| 9 | Chargement et réutilisation du modèle | ⏳ |
+| 9 | Chargement et réutilisation du modèle | ✅ |
 | 10 | Bonus | ⏳ |
