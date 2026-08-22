@@ -43,8 +43,8 @@ atelier_scikit-learn_iot/
 | 3 | Découpage Train / Test | ✅ |
 | 4 | Gestion des valeurs manquantes | ✅ |
 | 5 | Mise à l'échelle | ✅ |
-| 6 | Entraînement et prédiction (KNN) | ⏳ |
-| 7 | Évaluation du modèle | ⏳ |
-| 8 | Sauvegarde du modèle | ⏳ |
+| 6 | Entraînement et prédiction (KNN) | ✅ |
+| 7 | Évaluation du modèle | ✅ |
+| 8 | Sauvegarde du modèle | ✅ |
 | 9 | Chargement et réutilisation du modèle | ⏳ |
 | 10 | Bonus | ⏳ |
