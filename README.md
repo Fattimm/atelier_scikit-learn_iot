@@ -38,8 +38,8 @@ atelier_scikit-learn_iot/
 | Partie | Description | Statut |
 |---|---|---|
 | 0 | Mise en place de l'environnement | ✅ |
-| 1 | Gestion des doublons | ⏳ |
-| 2 | Sélection de X (caractéristiques) et y (cible) | ⏳ |
+| 1 | Gestion des doublons | ✅ |
+| 2 | Sélection de X (caractéristiques) et y (cible) | ✅ |
 | 3 | Découpage Train / Test | ⏳ |
 | 4 | Gestion des valeurs manquantes | ⏳ |
 | 5 | Mise à l'échelle | ⏳ |
